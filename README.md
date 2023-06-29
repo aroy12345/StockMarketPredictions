@@ -1,2 +1,2 @@
 # StockMarketPredictions
-Machine Learning and Deep Leaning models to predict stock market prices in Tokoyo. Big Data Analytics Final Project
+Big Data Analytics Final Project: Machine Learning and Deep Learning models to predict stock market prices in Tokoyo.
