@@ -1,2 +1,1 @@
-# StockMarketPredictions
-Big Data Analytics Final Project: Machine Learning and Deep Learning models to predict stock market prices in Tokoyo
+Utilized advanced machine learning techniques including data preprocessing, Exploratory Data Analysis (EDA), feature selection, multiple regression models with regularization, and Deep Neural Networks to predict the closing price of stocks in the Japanese stock market.
